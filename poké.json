@@ -1,0 +1,70 @@
+{
+    "apiName":"paolabaumata",
+    "origin":"QRO",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Charmander",
+            "type":"Fuego",
+            "height":6,
+            "weight":8,
+            "des":"La llama que tiene en la punta de la cola arde según sus sentimientos.",
+            "figure":"https://i.pinimg.com/originals/a4/30/fd/a430fda04c5be5420a6f8aa484f47945.png"
+        },    
+        {
+            "id":2,
+            "name":"Pikachu",
+            "type":"Electrico",
+            "height":0.4,
+            "weight":6.0,
+            "des":"Electricidad estática, cuando entra en contacto corporal con el rival, a veces lo paraliza.",
+            "figure":"https://pm1.narvii.com/6106/5f37c33445b00051b15de12d75e0eb56e292e0f7_hq.jpg"   
+        },
+        {
+            "id":3,
+            "name":"Lugia",
+            "type":"Psíquico",
+            "height":0.9,
+            "weight":10.0,
+            "des":"La fuerza que tiene Lugia en las alas es devastadora; con nada que las bata es capaz de derribar edificios enteros.",
+            "figure":"https://i.pinimg.com/736x/50/37/5c/50375c536f00d45cd4059ccdd33ef55a.jpg"        
+        },
+        {
+            "id":4,
+            "name":"Glaceon",
+            "type":"Hielo",
+            "height":0.5,
+            "weight":9.0,
+            "des":" Glaceon puede congelar la piel de su cuerpo para que queden como agujas afiladas.",
+            "figure":"https://i.pinimg.com/originals/88/a9/0b/88a90b9f571ba69c0b97c0f112530423.jpg"  
+        },
+        {
+            "id":5,
+            "name":"Mewtwo",
+            "type":"Psíquico",
+            "height":0.7,
+            "weight":6.9,
+            "des":" Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.",
+            "figure":"https://i.pinimg.com/originals/28/8f/ff/288fffad33bf2cd627e02dc29f0ee2a3.png"      
+        },
+        {
+            "id":6,
+            "name":"Bellossom",
+            "type":"Planta",
+            "height":0.7,
+            "weight":6.9,
+            "des":" Al bailar, sus pétalos se rozan y emiten un agradable sonido.",
+            "figure":"https://w1.pngwing.com/pngs/490/511/png-transparent-flowers-bellossom-bulbapedia-vileplume-bellsprout-grass-floral-design-evolution.png"      
+        },
+        {
+            "id":7,
+            "name":"Snorlax",
+            "type":"normal",
+            "height":0.7,
+            "weight":6.9,
+            "des":" Se caracteriza en el anime y los videojuegos por limitarse a comer y dormir.",
+            "figure":"https://i.pinimg.com/originals/1a/80/76/1a80761fb72fe0bf8d2448b4ee9baf68.png"     
+        }
+    ]  
+}
